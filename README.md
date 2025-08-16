@@ -50,3 +50,6 @@ To create a unified analytics solution that:
 6.Screenshots
 <img width="975" height="551" alt="image" src="https://github.com/user-attachments/assets/1a499886-2918-4b70-8c4c-746ff4b32dc6" />
 
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6bacccc1-1044-4a85-8535-420933bc3685" />
+
+
